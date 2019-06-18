@@ -1,0 +1,10 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+{{#if use-data-annotations}}
+using System.ComponentModel.DataAnnotations;
+{{/if}}
+{{#each imports}}
+using {{import}};
+{{/each}}
+using TrackableEntities.Common.Core;

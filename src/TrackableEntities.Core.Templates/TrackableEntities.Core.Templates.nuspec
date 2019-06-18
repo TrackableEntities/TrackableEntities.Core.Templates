@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+    <metadata>
+        <id>TrackableEntities.Core.Templates</id>
+        <version>1.0.0</version>
+        <title>Trackable Entities for EF Core Handlebars Templates</title>
+        <description>Customizable Handlebars templates for Trackable Entities for EF Core entities.</description>
+        <authors>Tony Sneed</authors>
+        <owners>Tony Sneed</owners>
+        <license type="expression">MIT</license>
+        <projectUrl>https://github.com/TrackableEntities/TrackableEntities.Core.Templates</projectUrl>
+        <iconUrl>http://trackableentities.github.io/images/tracking.png</iconUrl>
+        <language>en-US</language>
+        <releaseNotes>See https://github.com/TrackableEntities/TrackableEntities.Core.Templates/releases/tag/v1.0.0</releaseNotes>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <tags>entity-framework-core trackable-entities handlebars templates</tags>
+        <packageTypes>
+            <packageType name="Template" />
+        </packageTypes>
+    </metadata>
+    <files>
+      <file src="content/**" target="" />
+    </files>
+</package>
