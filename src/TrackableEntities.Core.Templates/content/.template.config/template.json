@@ -1,8 +1,8 @@
 {
   "$schema": "http://json.schemastore.org/template",
   "author": "Tony Sneed",
-  "classifications": [ "EntityFrameworkCore", "TrackableEntities", "Handlebars","Templates" ],
+  "classifications": [ "Trackable Entities", "Templates" ],
   "identity": "TrackableEntities.Core.Templates",
   "name": "Trackable Entities for EF Core Handlebars Templates",
-  "shortName": "te-handlebars"
+  "shortName": "te-templates"
 }
