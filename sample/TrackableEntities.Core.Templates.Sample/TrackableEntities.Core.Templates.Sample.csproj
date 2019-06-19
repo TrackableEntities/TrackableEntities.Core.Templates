@@ -4,4 +4,11 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="EntityFrameworkCore.Scaffolding.Handlebars" Version="1.7.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.4" />
+    <PackageReference Include="TrackableEntities.EF.Core" Version="1.2.0" />
+  </ItemGroup>
+
 </Project>
